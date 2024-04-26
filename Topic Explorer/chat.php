@@ -5,7 +5,7 @@ date_default_timezone_set('PRC');
 
 // Add your OpenAI API Key below 
 $chat = new ChatGPT([
-    'api_key' => 'sk-proj-osWMron4D67PuU1PBtD4T3BlbkFJ4MtzxcfS2CzIcHGfBz5w',	
+    'api_key' => 'API_GOES_HERE',	
 ]);
 
 /*
